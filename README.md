@@ -1,7 +1,8 @@
 # fshapesTk
 
  
-The fshapesTk is a matlab toolkit written in Matlab, C and Cuda that can be used to analyse functional shapes (sets of landmarks, curves or surfaces on which a scalar field is defined).
+The fshapesTk is a matlab toolkit written in Matlab, C and Cuda that can be used to analyse functional shapes (sets of landmarks, curves or surfaces on which a scalar field is defined). The repository has moved to [https://plmlab.math.cnrs.fr/benjamin.charlier/fshapesTk](https://plmlab.math.cnrs.fr/benjamin.charlier/fshapesTk)
+
 
 The fshapesTk toolbox can be used to reproduce the examples in the following paper :
 
@@ -12,7 +13,6 @@ The fshapesTk toolbox can be used to reproduce the examples in the following pap
 * [B. Charlier, G. Nardi, A. Trouvé. The matching problem between functional shapes via a $BV$-penalty term: a $\Gamma$-convergence result.](http://hal.archives-ouvertes.fr/hal-00981805)
 
 
-The repository has moved to [the gitlab repo hosted by cnrs](https://plmlab.math.cnrs.fr/benjamin.charlier/fshapesTk)
 
 Contact : benjamin.charlier(at)umontpellier.fr 
 
