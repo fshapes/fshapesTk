@@ -12,9 +12,9 @@ The fshapesTk toolbox can be used to reproduce the examples in the following pap
 * [B. Charlier, G. Nardi, A. Trouvé. The matching problem between functional shapes via a $BV$-penalty term: a $\Gamma$-convergence result.](http://hal.archives-ouvertes.fr/hal-00981805)
 
 
-The repository has (temporary) moved to [the gitlab repo hosted by University of Montpellier](https://gitlab.info-ufr.univ-montp2.fr/benjamin.charlier/fshapesTk)
+The repository has moved to [the gitlab repo hosted by cnrs](https://plmlab.math.cnrs.fr/benjamin.charlier/fshapesTk)
 
-Please e-mail me benjamin.charlier(at)umontpellier.fr to get an access. 
+Contact : benjamin.charlier(at)umontpellier.fr 
 
 
 b.
