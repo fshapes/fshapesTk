@@ -1,8 +1,13 @@
-# fshapesTk
+# The fshapes Toolkit
 
  
-The fshapesTk is a matlab toolkit written in Matlab, C and Cuda that can be used to analyse functional shapes (sets of landmarks, curves or surfaces on which a scalar field is defined). The repository has moved to [https://plmlab.math.cnrs.fr/benjamin.charlier/fshapesTk](https://plmlab.math.cnrs.fr/benjamin.charlier/fshapesTk)
+The fshapesTk is a Matlab toolkit written in Matlab, C and Cuda that can be used to analyse functional shapes (sets of landmarks, curves or surfaces on which a scalar field is defined). 
 
+# New Repo
+
+The repository has moved to [**https://plmlab.math.cnrs.fr/benjamin.charlier/fshapesTk**](https://plmlab.math.cnrs.fr/benjamin.charlier/fshapesTk)
+
+# References
 
 The fshapesTk toolbox can be used to reproduce the examples in the following paper :
 
